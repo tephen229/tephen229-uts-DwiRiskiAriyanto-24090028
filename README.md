@@ -2,6 +2,7 @@
 
 Proyek simulasi manajemen toko material ini dikembangkan menggunakan **HTML, CSS, dan JavaScript** murni, berfokus pada desain modern dan interaksi dinamis *client-side*.
 
+---
 
 ## 👤 Informasi Pengembang
 
@@ -36,13 +37,13 @@ Halaman otentikasi dengan validasi dan navigasi:
 Halaman ringkasan data dan navigasi:
 
 * **Layout:** Menggunakan **Sidebar** tetap dan konten utama (*Main Content*).
-* **Card Summary:** Menampilkan tiga kartu ringkasan (**Total Produk, Total Penjualan, Total Revenue**) yang diambil dari *object* `summary` di JavaScript dan ditata rapi menggunakan **Flexbox**.
+* **Card Summary:** Menampilkan tiga kartu ringkasan (**Total Produk, Total Penjualan, Total Revenue**) yang diambil dari *object* `summary` di JavaScript.
 * **Aksi:** Tombol **"Lihat Data Produk"** mengarahkan ke `products.html`.
 
 ### 3. 📦 Halaman List Data Produk (`products.html`)
 
 Halaman manajemen data dengan manipulasi DOM dinamis:
 
-* **Tabel:** Menampilkan data produk (No, Name, Price, Stock) yang di-*render* dinamis dari *array* `products` menggunakan `.map()`/`.forEach()`.
+* **Tabel:** Menampilkan data produk (No, Name, Price, Stock)
 * **Aksi Edit (✏️):** Menampilkan notifikasi **alert** sederhana yang menyebutkan nama produk ("Produk 'Nama' telah diedit.").
-* **Aksi Delete (🗑️):** Meminta konfirmasi, lalu menghapus data dari *array* (`products.splice`), dan me-*render* ulang tabel (**Dynamic Deletion**).
+* **Aksi Delete (🗑️):** Meminta konfirmasi, lalu menghapus data dari *array* (`products.splice`).
