@@ -1,6 +1,6 @@
 # 🛒 uts-DwiRiskiAriyanto-24090028: Aplikasi Web Mini (Front-End)
 
-Proyek simulasi manajemen toko material ini dikembangkan menggunakan **HTML, CSS, dan JavaScript** murni, berfokus pada desain modern dan interaksi dinamis *client-side*.
+Proyek simulasi manajemen toko mini ini dikembangkan menggunakan **HTML, CSS, dan JavaScript** murni.
 
 ---
 
