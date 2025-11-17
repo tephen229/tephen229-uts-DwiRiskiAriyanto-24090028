@@ -6,19 +6,18 @@ Proyek simulasi manajemen toko material ini dikembangkan menggunakan **HTML, CSS
 
 ## 👤 Informasi Pengembang
 
-| Keterangan | Detail |
-| :--- | :--- |
-| **Nama** | Dwi Riski Ariyanto |
-| **NIM** | 24090028 |
+Keterangan Detail: 
+
+**Nama**  Dwi Riski Ariyanto 
+**NIM**  24090028 
 
 ---
 
 ## 🔗 Link Akses Proyek
 
-| Keterangan | Link |
-| :--- | :--- |
-| **GitHub Repository** | `https://github.com/tephen229/tephen229-uts-DwiRiskiAriyanto-24090028.git` |
-| **GitHub Pages (Demo)** | `https://tephen229.github.io/tephen229-uts-DwiRiskiAriyanto-24090028/` |
+Keterangan Link:
+**GitHub Repository** `https://github.com/tephen229/tephen229-uts-DwiRiskiAriyanto-24090028.git` 
+**GitHub Pages (Demo)** `https://tephen229.github.io/tephen229-uts-DwiRiskiAriyanto-24090028/` 
 
 ---
 
